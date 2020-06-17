@@ -1,3 +1,24 @@
+Folder update content:
+Update date：June 16, 2020
+Update content：
+
+1.other homework
+* The URL of the deployed application.
+https://miosagawa.github.io/Homework/homework.html
+
+* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+https://github.com/miosagawa/Homework.git
+
+
+
+
+
+
+
+
+
+----------------------------------
+
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
